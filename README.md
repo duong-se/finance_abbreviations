@@ -1,7 +1,7 @@
 # Abbreviations 
 ## A
-**AML** Anti-Money Laundering
-ACIP: Applicable Customer Identification Procedure
+**AML** Anti-Money Laundering.  
+**ACIP** Applicable Customer Identification Procedure
 
 ## C
 **CDD** Customer Due Diligence
