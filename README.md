@@ -3,7 +3,8 @@
 **AML** Anti-Money Laundering.  
 **ACIP** Applicable Customer Identification Procedure  
 **AUSTRAC** Australian Transaction Reports and Analysis Centre  
-
+**ASIC** The Australian Securities and Investments Commission.  
+**ASX** Australian Securities Exchange.  
 
 ## B
 **BO(s)** Beneficial Owner
