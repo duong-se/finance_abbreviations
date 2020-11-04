@@ -1,15 +1,16 @@
-# A
+# Abbreviations 
+## A
 **AML** Anti-Money Laundering
 ACIP: Applicable Customer Identification Procedure
 
-# C
+## C
 **CDD** Customer Due Diligence
 
-# K
+## K
 **KYC** Know Your Customer
 
-# M
+## M
 **ML** Money Laundering
 
-# T
+## T
 **TF**  Terrorism Financing
