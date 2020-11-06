@@ -15,6 +15,7 @@
 
 ## E
 **ECDD** Enhanced Customer Due Diligence  
+**EFTI** Electronic Fund Transfer Instruction
 
 ## F
 **FCR** Financial Crime Risk  
@@ -27,6 +28,8 @@
 
 ## O
 **OCDD** Ongoing Customer Due Diligence  
+**OVC** Over the Counter  
+
 
 ## S
 **SMO** Senior Managing Official  
@@ -40,3 +43,7 @@
 
 ## T
 **TF**  Terrorism Financing  
+**TTR** Threshold transaction reports
+
+## I
+**IFTIs** International funds transfer instructions
