@@ -15,7 +15,7 @@
 
 ## E
 **ECDD** Enhanced Customer Due Diligence  
-**EFTI** Electronic Fund Transfer Instruction
+**EFTI** Electronic Fund Transfer Instruction.  
 
 ## F
 **FCR** Financial Crime Risk  
@@ -46,4 +46,4 @@
 **TTR** Threshold transaction reports
 
 ## I
-**IFTIs** International funds transfer instructions
+**IFTIs** International funds transfer instructions.  
